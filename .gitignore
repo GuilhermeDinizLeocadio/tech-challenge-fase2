@@ -216,3 +216,10 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Dados brutos — ficam no S3, não no GitHub
+data/bronze/inep/
+data/bronze/basedosdados/
+data/silver/
+data/gold/
+
