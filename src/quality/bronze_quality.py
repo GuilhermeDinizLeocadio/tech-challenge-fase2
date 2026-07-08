@@ -28,7 +28,7 @@ s3 = boto3.client(
 )
 
 BUCKET = os.getenv('AWS_BUCKET_NAME')
-DATA_HOJE = datetime.now().strftime('%Y-%m-%d')
+DATA_HOJE = '2026-06-10'  # data fixa da ingestão Bronze
 
 # =============================================================
 # ARQUIVOS PARA VALIDAR
