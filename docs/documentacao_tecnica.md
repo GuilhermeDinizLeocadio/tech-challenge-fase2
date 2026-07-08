@@ -478,7 +478,7 @@ Diferença entre 1º e 25º: 44.85 pontos percentuais
 
 ### 10.3 Distribuição dos Municípios por Nível
 
-![Painel Municípios](images/painel_nacional.png)
+![Distribuição Municípios](images/distribuicao_municipios.png)
 
 ```
 EXCELENTE (>90%): 1.656 municípios (13.34%)
