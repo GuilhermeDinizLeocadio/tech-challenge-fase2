@@ -72,6 +72,12 @@ Pipeline em **Arquitetura Medalhão** (Bronze → Silver → Gold) na AWS S3, co
 
 > **Decisão importante:** A tabela de alunos da Base dos Dados foi descontinuada durante o desenvolvimento. Substituímos pelos Microdados Oficiais INEP AEEB 2025, que contêm dados mais detalhados e atualizados. Essa substituição demonstrou maturidade técnica — encontramos um obstáculo e identificamos uma solução melhor.
 
+
+## 📥 Links Oficiais das Fontes
+
+| INEP — Avaliação da Alfabetização | https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/avaliacao-da-alfabetizacao/resultados (Microdados da Avaliação da Alfabetização)
+| Base dos Dados — Indicador Criança Alfabetizada | https://basedosdados.org/dataset/073a39d4-89cf-4068-b1e8-34ed0d9c0b72 |
+
 ---
 
 ## 🛠️ Tecnologias Utilizadas
